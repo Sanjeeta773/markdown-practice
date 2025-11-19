@@ -29,6 +29,8 @@ To prepare Mo:Mo, you will need:
 
 ---
 
+You can find more Mo:Mo recipes [here](https://www.tibetankitchen.com/recipes/momos/).
+
 
 ## Example of Cooking Instructions (Inline Code and Code Block)
 
