@@ -28,10 +28,7 @@ To prepare Mo:Mo, you will need:
 6. Serve with spicy dipping sauce.
 
 ---
-
-Check out this dumpling recipe 
-[here][https://www.allrecipes.com/recipe/244147/tibetan-momo/]You 
-can find more Mo:Mo recipes [here](https://www.tibetankitchen.com/recipes/momos/).
+Check out this dumpling recipe [https://youtu.be/uJlIncioJVI?si=_43kw0PM0uRBPuzW]
 
 
 ## Example of Cooking Instructions (Inline Code and Code Block)
